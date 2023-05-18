@@ -1,7 +1,4 @@
 
-spring:
-  application:
-    name: config-Production
 # Eureka server config
 eureka:
   instance:
